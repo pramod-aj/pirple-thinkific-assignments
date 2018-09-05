@@ -1,0 +1,20 @@
+{
+  "name": "node-master-class-assignments",
+  "author": "Pramod Jingade",
+  "version": "1.0.0",
+  "description": "Git repository for all the assignments on Pirple Thinkific Node Master Class",
+  "main": "assignment-01/index.js",
+  "scripts": {
+    "start": "node assignment-01/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramod-aj/pirple-thinkific-assignments.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pramod-aj/pirple-thinkific-assignments/issues"
+  },
+  "homepage": "https://github.com/pramod-aj/pirple-thinkific-assignments#readme"
+}

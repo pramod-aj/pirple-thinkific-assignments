@@ -17,14 +17,8 @@ This is the first of several homework assignments you'll receive in this course.
 3. In that thread, discuss what you have built, and include the link to your Github repo. 
 - All assignments can be found in their respective folders named:
     - **assignment-01** : **Homework assignment #1** - _RESTful JSON API that listens on a port of one's choice_    
+    - To check an assignment simply clone the project and hit `npm start`
+    - Notes about individual assignments can be found in their particular folders.
 
 ---
-
-## Homework Assignment #1
-
-Please create a simple "Hello World" API. Meaning:
-
-1. It should be a RESTful JSON API that listens on a port of your choice. 
-
-2. When someone posts anything to the route /hello, you should return a welcome message, in JSON format. This message can be anything you want. 
 

@@ -6,7 +6,7 @@
 
 // Built in modules of Node JS - http and url
 
-const PORT = 5000; //For now setting this to 5000 - port of my choice
+const PORT = 5000; //STEP 1 - For now setting this to 5000 - port of my choice
 
 const http = require('http');
 const url = require('url');
@@ -35,15 +35,21 @@ const server = http.createServer((req,res) => {
     const method = req.method.toLowerCase();
 
     /*
-    * Check if the method is a POST method
+    * STEP 2 - Check if the method is a POST method
     * Assignment - if anyone `posts`
     */
-    if (method == 'post'){
-        responseHandler(200, {message:'Welcome to Node JS Master Class'});
+    if (method == 'post') {
+        /**
+         * STEP 3 - Check if they have posted - hello
+         */
+        if (trimmedPath == 'hello') {
+            responseHandler(200, {message:'Welcome to Node JS Master Class'});
+        }else {
+            responseHandler(404, {});
+        }
     } else {
         responseHandler(404, {});
     }
-
 });
 
 //Start server
