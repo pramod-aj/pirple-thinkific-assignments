@@ -1,0 +1,244 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "type": "pizza",
+            "topping": "Peri Peri",
+            "price": 200,
+            "currency":"USD",
+            "description": "Tinamou, elegant crested"
+        },
+        {
+            "id": 2,
+            "type": "pizza",
+            "topping": "Peri Peri",
+            "price": 300,
+            "currency":"USD",
+            "description": "Kirk's dik dik"
+        },
+        {
+            "id": 3,
+            "type": "pizza",
+            "topping": "BBQ Chicken",
+            "price": 90,
+            "currency":"USD",
+            "description": "Lark, horned"
+        },
+        {
+            "id": 4,
+            "type": "pizza",
+            "topping": "Classic Cheese",
+            "price": 250,
+            "currency":"USD",
+            "description": "Tenrec, tailless"
+        },
+        {
+            "id": 5,
+            "type": "pizza",
+            "topping": "Peri Peri",
+            "price": 150,
+            "currency":"USD",
+            "description": "Bengal vulture"
+        },
+        {
+            "id": 6,
+            "type": "pizza",
+            "topping": "Chicken Italian",
+            "price": 300,
+            "currency":"USD",
+            "description": "Roe deer"
+        },
+        {
+            "id": 7,
+            "type": "pizza",
+            "topping": "Peri Peri",
+            "price": 200,
+            "currency":"USD",
+            "description": "Plover, three-banded"
+        },
+        {
+            "id": 8,
+            "type": "pizza",
+            "topping": "Peri Peri",
+            "price": 150,
+            "currency":"USD",
+            "description": "Ornate rock dragon"
+        },
+        {
+            "id": 9,
+            "type": "pizza",
+            "topping": "Pizza of the day",
+            "price": 300,
+            "currency":"USD",
+            "description": "Black-capped capuchin"
+        },
+        {
+            "id": 10,
+            "type": "pizza",
+            "topping": "Veggie Supreme",
+            "price": 200,
+            "currency":"USD",
+            "description": "Manatee"
+        },
+        {
+            "id": 11,
+            "type": "pizza",
+            "topping": "Veggie Supreme",
+            "price": 150,
+            "currency":"USD",
+            "description": "Tsessebe"
+        },
+        {
+            "id": 12,
+            "type": "pizza",
+            "topping": "BBQ Chicken",
+            "price": 150,
+            "currency":"USD",
+            "description": "Japanese macaque"
+        },
+        {
+            "id": 13,
+            "type": "pizza",
+            "topping": "BBQ Chicken",
+            "price": 250,
+            "currency":"USD",
+            "description": "Fox, savanna"
+        },
+        {
+            "id": 14,
+            "type": "pizza",
+            "topping": "Veggie Supreme",
+            "price": 250,
+            "currency":"USD",
+            "description": "Common eland"
+        },
+        {
+            "id": 15,
+            "type": "pizza",
+            "topping": "Veggie Supreme",
+            "price": 150,
+            "currency":"USD",
+            "description": "Rhesus macaque"
+        },
+        {
+            "id": 16,
+            "type": "pizza",
+            "topping": "Chicken Italian",
+            "price": 250,
+            "currency":"USD",
+            "description": "Buttermilk snake"
+        },
+        {
+            "id": 17,
+            "type": "pizza",
+            "topping": "Pizza of the day",
+            "price": 120,
+            "currency":"USD",
+            "description": "Arctic ground squirrel"
+        },
+        {
+            "id": 18,
+            "type": "pizza",
+            "topping": "Peri Peri",
+            "price": 200,
+            "currency":"USD",
+            "description": "Waterbuck, common"
+        },
+        {
+            "id": 19,
+            "type": "pizza",
+            "topping": "Pizza of the day",
+            "price": 250,
+            "currency":"USD",
+            "description": "Gorilla, western lowland"
+        },
+        {
+            "id": 20,
+            "type": "pizza",
+            "topping": "Veggie Supreme",
+            "price": 150,
+            "currency":"USD",
+            "description": "Least chipmunk"
+        },
+        {
+            "id": 21,
+            "type": "pizza",
+            "topping": "BBQ Chicken",
+            "price": 250,
+            "currency":"USD",
+            "description": "Stork, european"
+        },
+        {
+            "id": 22,
+            "type": "pizza",
+            "topping": "Peri Peri",
+            "price": 200,
+            "currency":"USD",
+            "description": "Egret, great"
+        },
+        {
+            "id": 23,
+            "type": "pizza",
+            "topping": "Chicken Italian",
+            "price": 200,
+            "currency":"USD",
+            "description": "Bontebok"
+        },
+        {
+            "id": 24,
+            "type": "pizza",
+            "topping": "Chicken Italian",
+            "price": 150,
+            "currency":"USD",
+            "description": "Spurfowl, yellow-necked"
+        },
+        {
+            "id": 25,
+            "type": "pizza",
+            "topping": "Classic Cheese",
+            "price": 90,
+            "currency":"USD",
+            "description": "Dark-winged trumpeter"
+        },
+        {
+            "id": 26,
+            "type": "pizza",
+            "topping": "Peri Peri",
+            "price": 200,
+            "currency":"USD",
+            "description": "Eagle, white-bellied sea"
+        },
+        {
+            "id": 27,
+            "type": "pizza",
+            "topping": "Chicken Italian",
+            "price": 90,
+            "currency":"USD",
+            "description": "European beaver"
+        },
+        {
+            "id": 28,
+            "type": "pizza",
+            "topping": "Veggie Supreme",
+            "price": 300,
+            "currency":"USD",
+            "description": "Gila monster"
+        },
+        {
+            "id": 29,
+            "type": "pizza",
+            "topping": "BBQ Chicken",
+            "price": 90,
+            "currency":"USD",
+            "description": "Squirrel, uinta ground"
+        },
+        {
+            "id": 30,
+            "type": "pizza",
+            "topping": "Chicken Italian",
+            "price": 90,
+            "currency":"USD",
+            "description": "Llama"
+        }
+    ]
+}
