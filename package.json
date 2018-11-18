@@ -1,11 +1,13 @@
 {
   "name": "node-master-class-assignments",
   "author": "Pramod Jingade",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Git repository for all the assignments on Pirple Thinkific Node Master Class",
-  "main": "assignment-01/index.js",
+  "main": "assignment-02/index.js",
   "scripts": {
-    "start": "node assignment-01/index.js"
+    "start": "node assignment-02/index.js",
+    "hw01": "node assignment-01/index.js",
+    "hw02": "node assignment-02/index.js"
   },
   "repository": {
     "type": "git",
