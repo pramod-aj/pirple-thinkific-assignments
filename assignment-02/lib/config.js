@@ -9,7 +9,12 @@ environments.staging = {
     port: 3000,
     envName: 'staging',
     hashingSecret: 'thisIsASecret',
-    maxChecks: 5
+    maxChecks: 5,
+    stripe: 'STRIPE SECRET KEY TO BE ENTERED HERE',
+    mailgun:{
+        apiKey:'API KEY OF MAIL GUN ENTERE HERE',
+        domainName: 'www.simplerestapi.herokuapp.com'
+    }
 };
 
 
@@ -17,8 +22,13 @@ environments.production = {
     port: process.env.port,
     envName: 'production',
     hashingSecret: 'thisIsAlsoASecret',
-    maxChecks: 5
-}
+    maxChecks: 5,
+    stripe: 'STRIPE SECRET KEY TO BE ENTERED HERE',
+    mailgun:{
+        apiKey:'API KEY OF MAIL GUN ENTERE HERE',
+        domainName: 'www.simplerestapi.herokuapp.com'
+    }
+};
 
 //Determine which environment was passed as a command line argument
 var currentEnvironment = typeof(process.env.NODE_ENV) == 'string' ? process.env.NODE_ENV.toLowerCase() : '';
